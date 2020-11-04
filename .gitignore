@@ -1,2 +1,11 @@
 // Virtual envirenment
 qa_env
+
+
+.vscode
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/question_answer.iml
+.idea/.gitignore
