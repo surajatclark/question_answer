@@ -10,3 +10,5 @@ qa_env
 .idea/question_answer.iml
 .idea/.gitignore
 sqltools_20201105030052_7704.log
+
+__pycache__
